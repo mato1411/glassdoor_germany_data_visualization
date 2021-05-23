@@ -1,0 +1,6 @@
+.idea
+.ipynb_checkpoints
+__pycache__
+data/glassdoor.csv.gz
+data/glassdoor.csv
+data/glassdoor_salary_salaries.csv
